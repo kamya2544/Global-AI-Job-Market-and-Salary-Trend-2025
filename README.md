@@ -29,13 +29,30 @@ To explore this analysis, you can:
     jupyter notebook "Global AI Job Market and Salary Trend 2025.ipynb"
     ```
 
-## Analysis Highlights (Expected)
+## Analysis Highlights:
 
   * Identification of trending AI job titles.
   * Insights into salary variations across different AI roles and regions.
   * Analysis of key skills required for AI positions.
   * Visualizations illustrating market demand and growth.
 
-## Contributions
+## Contributing
 
-Feel free to fork this repository, explore the data, and contribute to the analysis. Suggestions for improvements, additional data sources, or further analysis are welcome\!
+Contributions are welcome\! If you have suggestions for improvements, new features, or find any issues, please feel free to:
+
+1.  Fork the repository.
+2.  Create a new branch (`git checkout -b feature/YourFeature`).
+3.  Make your changes.
+4.  Commit your changes (`git commit -m 'Add some feature'`).
+5.  Push to the branch (`git push origin feature/YourFeature`).
+6.  Open a Pull Request.
+
+
+## Contact
+
+If you have any questions or feedback, feel free to reach out:
+
+  * **Kamya Mehra** - (https://github.com/kamya2544)
+  * kmehra_be22@thapar.edu
+
+-----
